@@ -1,0 +1,3 @@
+com.crinity.common.security.config.SecurityAutoConfiguration
+com.crinity.common.security.config.SecurityExceptionHandlerAutoConfig
+com.crinity.common.security.config.WebConfig
